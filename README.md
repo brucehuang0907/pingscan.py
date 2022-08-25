@@ -44,6 +44,8 @@ Completed in 4.07s
 ```
 
 * Defaults, works in both Powershell and macOS
+```
 CONCURRENT_LIMIT = 100
 PING_COUNT = 4
 WAIT_MS = 1000  #1000ms
+```
