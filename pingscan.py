@@ -1,3 +1,5 @@
+#!/Library/Frameworks/Python.framework/Versions/Current/bin/python3
+
 import asyncio
 import sys,time,re,os
 
